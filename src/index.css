@@ -3,18 +3,17 @@
   padding: 0px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding-bottom: 30px;
+  margin-top: 5rem;
 }
 
 
 body {
-  background-color: #efef;
+  background-color: rgba(125, 211, 125, 0.421);
   height: 100%;
   width: 100%; 
 }
 
-h1 {
-  color: #dec128;
-}
+
 
 p{
   background-color: #999;
