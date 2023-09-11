@@ -1,14 +1,14 @@
 *{
-  margin: 0;
+  margin: 40px;
   padding: 0px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding-bottom: 30px;
-  margin-top: 0rem;
+  padding-bottom: 5px;
+  margin-top: 25px;
 }
 
 
 body {
-  background-color: rgba(125, 211, 125, 0.421);
+  background-color: rgba(193, 235, 193, 0.421);
   height: 100%;
   width: 100%; 
 }
@@ -16,6 +16,10 @@ body {
 
 
 p{
-  background-color: #999;
+  background-color: #e28787;
   padding: 10px;
+}
+
+footer{
+  background-color: #d64fbb75;
 }
